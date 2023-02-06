@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dskhule97
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL, Tableau, Python, Data analysis
+- 👋 Hi, I’m Devarshi Khule
+- 👀 I’m interested in Artificial Intelligence and Machine learning
+- 🌱 I’m always learning AI/ML, Data analytics, Power BI, SQL
 - 📫 How to reach me : https://www.linkedin.com/in/dskhule97/
 
 <!---
